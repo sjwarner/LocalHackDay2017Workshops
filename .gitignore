@@ -141,5 +141,8 @@ typings/
 # dotenv environment variables file
 .env
 
+.DS_Store
+npm-debug.log
+node_modules
 
 # End of https://www.gitignore.io/api/node,linux,intellij

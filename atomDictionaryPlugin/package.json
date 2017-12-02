@@ -1,0 +1,15 @@
+{
+  "name": "sams-dictionary-plugin",
+  "main": "./lib/sams-dictionary-plugin",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationCommands": {
+    "atom-workspace": "sams-dictionary-plugin:toggle"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
