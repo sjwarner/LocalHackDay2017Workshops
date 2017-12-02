@@ -20,3 +20,5 @@ You've just got to play with it - go and explore, if something doesn't turn out 
 If you partner with other people that are excited about programming, then you can get excited yourself and you'll get a lot done! However, a formal course is also good because it will teach it to you in a formal way with a framework etc.
 
 Be careful when programming - it is a fluid discipline. You're on a bleeding edge and you have to keep up to date with all of the technologies!
+
+Keep up to date with different paradigms - this is important as it really changes your work and how you can work (efficiently).
